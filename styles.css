@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+.parentContainer{
+    background-color:  hsl(0, 0%, 100%);
+}
+
+
+.firstText{
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    padding: 1em;
+}
+
+span{
+    color:hsl(216, 15%, 48%);
+    font-size: 15px;
+
+}
+
+.attribution{
+    text-align: center;
+    padding: 1em;
+}

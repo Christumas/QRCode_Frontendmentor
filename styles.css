@@ -3,7 +3,9 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 5em;
+    padding: 4em;
+    min-height:100vh;
+    overflow: hidden;
 }
 
 .parent{
@@ -14,13 +16,13 @@ body{
     justify-content: space-around;
     height: 700px;
     border-radius: 20px;
-    width: 40%;
+    width: 30%;
     padding: 1em;
 
 }
 
 .QRcontainer{
-    height:50%;
+    height: 55%;
     width:100%;
     border-radius: 20px;
 }
@@ -32,4 +34,42 @@ body{
     width: 100%;
     border-radius: 20px;
 
+}
+
+
+  
+.firstText{
+    width:100%;
+    color:hsl(218, 44%, 22%);
+    text-align: center;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.secondText{
+    width:100%;
+    color:hsl(218, 44%, 22%);
+    text-align: center;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.attribution{
+    width:100%;
+    text-align:center;
+    width:100%;
+    color:hsl(218, 44%, 22%);
+    text-align: center;
+    font-size: 15px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }

@@ -2,6 +2,9 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+## Screenshot of my solution
+![](./solution_screenshot.jpeg.png)
+
 ## Overview
 
 
@@ -22,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I mostly practiced appyling what I know. I need more practice mainly with sizing and positioning. 
 
 ### Continued development
-Mostly laying out stuff and getting the intuition of how sizing of elements work.
+Mostly laying out stuff and getting the intuition of how sizing of elements work. As a CSS newbie I need to make sure I make the designs responsive for phones as well.
 
 
 ## Author
